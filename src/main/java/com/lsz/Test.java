@@ -13,5 +13,6 @@ public class Test {
         System.out.println("hot-fix update");
         System.out.println("hot-fix111111111");
         System.out.println("master111111");
+        System.out.println("pull test");
     }
 }
